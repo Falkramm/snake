@@ -5,6 +5,5 @@ public:
 	void game();
 	void start_menu();
 	void start_game();
-
 };
 

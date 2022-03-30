@@ -54,4 +54,5 @@ void My_game::start_game() {
 		++i;
 		Sleep(100);
 	}
+
 }
